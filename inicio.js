@@ -2,7 +2,7 @@ var calculadora = require("./calculadora");
 
 
 
-console.log(calculadora.mult(15, 5));
+console.log(calculadora.mult(5, 5));
 console.log(calculadora.soma(5, 5));
 
 console.log("teste");
